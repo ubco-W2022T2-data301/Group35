@@ -28,7 +28,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## References
 
-{Add your stuff here}
+[Past decade dataset](https://www.kaggle.com/datasets/kane6543/most-watched-stocks-of-past-decade20132023?select=AAPL%28Apple%29.csv)
 
+[Second reference link - linear regression](https://www.kaggle.com/code/kane6543/stock-prediction-linear-regression-moving-avg)
 
 
