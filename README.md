@@ -22,7 +22,7 @@ The dataset we have chosen was obtained from the popular website Kaggle which ha
 
 {You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
-<img src ="images/Kaggle.png" width="100px">
+<img src ="images/Kaggle.png" width="200px" length="100px">
 
 ## References
 
