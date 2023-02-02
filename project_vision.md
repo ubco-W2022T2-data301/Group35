@@ -2,6 +2,9 @@
 
 Add a vision for what you want your project to look like in the end here... Feel free to remove the everything in this section (remember to leave the "Contracted Grade" section at the end.
 
+**Our Vision**
+# Learn Trends, Invest Smart and Earn Smart
+
 You are welcome to update the vision as your project evolves and changes.
 
 Creating a project vision statement is an essential aspect of good project planning.
@@ -30,4 +33,4 @@ Dovile's article offers a few suggestions to consider when writing your project 
 
 ## Contracted Grade
 
-For this project, we agree to contract for a { A+/A/B/C }.
+For this project, we agree to contract for a A+.
