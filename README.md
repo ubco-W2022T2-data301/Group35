@@ -24,7 +24,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 {You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
-<img src ="images/test.png" width="100px">
+<img src ="images/Kaggle.png" width="100px">
 
 ## References
 
