@@ -16,7 +16,7 @@ The dataset we have chosen was obtained from the popular website Kaggle which ha
 
 - Shakthi Vel: Hello, I'm interested in programming and I like chess.
 - Saketh Anand: I work in Tim Hortons and am honing my skills in programming.
-- PVanshika : I am a part-time tutor and I am always looking for new start up ideas :) 
+- Vanshika : I am a part-time tutor and I am always looking for new start up ideas :) 
 
 ## Images
 
