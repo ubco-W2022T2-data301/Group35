@@ -7,4 +7,12 @@
 - You may add additional subdirectories within the current structure, but try to avoid creating any directories in the project root. If you have questions about this, you can ask the project TA.
 
 
-Vanshika- I will be concaticating the the data from a few companies that i am interested to analyise. 
+
+
+
+
+
+
+
+
+
