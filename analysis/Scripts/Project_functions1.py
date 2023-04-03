@@ -1,9 +1,7 @@
 ## LOAD AND PROCESS FUNCTION
 
 import pandas as pd
-import os
-import numpy as np
-import matplotlib.pyplot as plt
+
 
 def load_and_process(url):
     # Define list for company column
@@ -53,3 +51,6 @@ def load_and_process(url):
 
     # Make sure to return the latest dataframe
     return df_monthly
+
+
+load_and_process('../data/processed/Merged.csv')
