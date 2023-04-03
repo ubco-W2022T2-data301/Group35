@@ -34,11 +34,22 @@ def load_and_process(url):
         #df = df[['Company', 'Industry', 'Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume']]
     )  
 
-    # Method Chain 2 (Create new columns, drop others, and do processing)
-    df2 = (
+    # Method Chain 2 (Creating the df that includes Technology only, and added porfit_Made 
+    df_tech = (
         df1.assign(Profit_Made=df1['Close']-df1['Open'])
         .loc[df1['Industry'] == 'Technology'].groupby('Company')['Profit_Made'].mean()
     )
 
+    # Method Chain 3 (Created a formula to find Volatility, per month in every Year- Final Data frame)
+    df_monthly = (
+         df_tech.assign(Date=pd.to_datetime(df_tech['Date']))
+        .groupby([df_tech.Date.dt.year, df_tech.Date.dt.month, 'Company'])
+        .agg({'Profit_Made': 'mean', 'Close': 'mean', 'High': 'max', 'Low': 'min'})
+        .assign(Volatility=lambda x: x['High'] - x['Low'])
+        .reset_index()
+        .rename(columns={'Date': 'Year', 'Date': 'Month'})       
+      
+    )
+
     # Make sure to return the latest dataframe
-    return df2 
+    return df_monthly
