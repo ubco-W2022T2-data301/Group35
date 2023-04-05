@@ -21,4 +21,4 @@ def load_and_process(url):
         .rename(columns={'Adj Close': 'Closed'})
     )
 
-return df2
+    return df2
