@@ -1,9 +1,7 @@
 ## LOAD AND PROCESS FUNCTION
 
 import pandas as pd
-import os
-import numpy as np
-import matplotlib.pyplot as plt
+
 
 def load_and_process(url):
     # Define list for company column
@@ -30,15 +28,33 @@ def load_and_process(url):
         # Make a new column for company
         .assign(Company = [k for i in list for k in i])
         .assign(Industry = lambda x: x['Company'].map(industries))
-        # Add a new column for industry since i will be looking at these stocks within the indusrties as well
-        #df = df[['Company', 'Industry', 'Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume']]
+     
     )  
 
-    # Method Chain 2 (Create new columns, drop others, and do processing)
-    df2 = (
+    # Method Chain 2 (Creating the df_tech that have Only Tech Companies, Added Profit made column, and DDroped Industry Column
+    df_tech = (
         df1.assign(Profit_Made=df1['Close']-df1['Open'])
         .loc[df1['Industry'] == 'Technology'].groupby('Company')['Profit_Made'].mean()
+        .drop('Industry', axis=1)
+
     )
 
+    # Method Chain 3 (Created a formula to find Volatility, per month in every Year- Final Data frame)
+    df_monthly = (df_tech.groupby([(df_tech.Date.dt.year),(df_tech.Date.dt.month),'Company'])
+            .agg({'Profit_Made': 'mean', 'Close': 'std'})
+            .reset_index()
+    )
+      # Method Chain 3 (Created a fORmula to have Volatility(Formula 2), per month in every Year(AGGREGATED - Final Data frame)
+    # df_monthly = (
+    #      df_tech.assign(Date=pd.to_datetime(df_tech['Date']))
+    #     .groupby([df_tech.Date.dt.year, df_tech.Date.dt.month, 'Company'])
+    #     .agg({'Profit_Made': 'mean', 'Close': 'mean', 'High': 'max', 'Low': 'min'})
+    #     .assign(Volatility=lambda x: x['High'] - x['Low'])
+    #     .reset_index()
+    #     .rename(columns={'Date': 'Year', 'Date': 'Month'})       
+      
+    # )
+           
     # Make sure to return the latest dataframe
-    return df2 
+    return df_monthly
+
