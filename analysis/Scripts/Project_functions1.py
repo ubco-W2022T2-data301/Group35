@@ -39,21 +39,12 @@ def load_and_process(url):
 
     )
 
-    # Method Chain 3 (Created a formula to find Volatility, per month in every Year- Final Data frame)
+    # Method Chain 3 (Created a fORmula to have Volatility(Formula 2), per month in every Year(AGGREGATED - Final Data frame)
     df_monthly = (df_tech.groupby([(df_tech.Date.dt.year),(df_tech.Date.dt.month),'Company'])
             .agg({'Profit_Made': 'mean', 'Close': 'std'})
             .reset_index()
     )
-      # Method Chain 3 (Created a fORmula to have Volatility(Formula 2), per month in every Year(AGGREGATED - Final Data frame)
-    # df_monthly = (
-    #      df_tech.assign(Date=pd.to_datetime(df_tech['Date']))
-    #     .groupby([df_tech.Date.dt.year, df_tech.Date.dt.month, 'Company'])
-    #     .agg({'Profit_Made': 'mean', 'Close': 'mean', 'High': 'max', 'Low': 'min'})
-    #     .assign(Volatility=lambda x: x['High'] - x['Low'])
-    #     .reset_index()
-    #     .rename(columns={'Date': 'Year', 'Date': 'Month'})       
-      
-    # )
+   
            
     # Make sure to return the latest dataframe
     return df_monthly
