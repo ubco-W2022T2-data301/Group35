@@ -5,9 +5,8 @@
 
 
 
-This is Saketh's Recording- https://vimeo.com/815938124
+NB1 - Vanshika : Analysis1 I exported the last DF file as the tech.csv in processed data so that i could use the data in tableau. Link for my Recording  - https://youtu.be/xlYQ-i_Vi6o
+
+NB2- This is Saketh's Recording- https://vimeo.com/815938124
 
 
-
-
-Vanshika - Analysis1 I expoted the last DF file as the tech csv in processed data so that i could use the data in tableau. Link - https://youtu.be/xlYQ-i_Vi6o
