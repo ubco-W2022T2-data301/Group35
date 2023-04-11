@@ -55,7 +55,7 @@ On the other hand, companies like
 
 have shown positive values in their profit and are less volatile. Therefore, based on our analysis, we can conclude that these companies would be suitable for our yearly Bucket.
 
-[Further analysis can be seen in my analysis notebook over here including code and the data](../analysis/analysis1.ipynb)
+[Further analysis can be found in my analysis notebook, Click the link](../analysis/analysis1.ipynb)
 
 
 ### Analysis 2 summary (Saketh)
