@@ -1,1 +1,2 @@
-### Introduction- 
+# Introduction to Analysis 2
+The topic of interest is how the visializations and analysis of datasets can be used to smartly invest in stocks without any risk of loss and more probability to maximize the returns and profits. This is a very important and useful information to always know as it primarily saves our money, especially during the infaltion and all the taxes. Suppose upon analysing 7 companies interested to invest in, there are 3 companies that show maximum return and success, then instead of fully investing in 1 place, it can be split and invested in 3 places so that it further reduces the risk of any loss.
