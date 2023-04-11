@@ -40,3 +40,5 @@ On the other hand, companies like
 - Apple
 
 have shown positive values in their profit and are less volatile. Therefore, based on our analysis, we can conclude that these companies would be suitable for our yearly Bucket.
+
+
