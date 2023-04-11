@@ -6,4 +6,4 @@ Vanshika Singla has used the tech_industry_data.csv file for the dashboard
 
 
 
-Shakthi has use the Company.csv file for the dashboard
+Shakthi has used the Company.csv file for the dashboard
