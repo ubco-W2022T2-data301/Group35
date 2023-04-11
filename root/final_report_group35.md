@@ -25,7 +25,9 @@ Let's take a look at the  standard deviation of the close value of these stocks 
 Meta, Nvidia and Salesforce are showing the most Volatility on monthly basis. 
 
 CONCLUSION FOR MONTHLY ETF BASKET-
+
 ![](https://tse4.mm.bing.net/th?id=OIP.0IkVQ7FUR0vFqbYE-PNYFgHaE8&pid=Api&P=0)
+
 After looking at all the graphs and relationS. The favourable companies that are more profitable and less Volatile will be
 
 - Microsoft
@@ -43,6 +45,7 @@ We observe that certain companies show considerably high volatility in their sto
 
 On the other hand, companies like 
 ![](https://tse4.mm.bing.net/th?id=OIP.UmM-ZlsC_G3p6usKR95i0QHaEK&pid=Api&P=0)
+
 - Microsoft
 - Meta
 - Intel
@@ -51,6 +54,9 @@ On the other hand, companies like
 - Apple
 
 have shown positive values in their profit and are less volatile. Therefore, based on our analysis, we can conclude that these companies would be suitable for our yearly Bucket.
+
+[Further analysis can be seen in my analysis notebook over here including code and the data](../analysis/analysis1.ipynb)
+
 
 ### Analysis 2 summary (Saketh)
 Question - How proper analysis of the data can help in making informed decisions on which company to invest in stocks
