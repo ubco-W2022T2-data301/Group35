@@ -4,7 +4,7 @@ There are many important things that is required to know before investing in sto
 
 To start, Saketh was interested in how the visializations and analysis of datasets can be used to smartly invest in stocks without any risk of loss and more probability to maximize the returns and profits. This is a very important and useful information to always know as it primarily saves our money, especially during the infaltion and all the taxes. Suppose upon analysing 7 companies interested to invest in, there are 3 companies that show maximum return and success, then instead of fully investing in 1 place, it can be split and invested in 3 places so that it further reduces the risk of any loss.   
 
-![This was how Saketh was able to comclude that Apple, Tesla and Amazon are the best companies to invest in](root\images\analysis2.png)
+![This was how Saketh was able to conclude that Apple, Tesla and Amazon are the best companies to invest in](root\images\analysis2.png)
 
 We are interested in identifying the sectors or industries that are relatively stable and able to maintain or increase the value of investments, as well as those that are more volatile and therefore harder to predict. This is a crucial exercise for investors, as it can offer valuable insights that can aid in making more informed investment decisions.
 We also noticed a growing public interest in index funds and a shift towards sustainable investing and I wonder whether these trends have been influenced by the performance of different sectors and if these companies are related to any sustainability practices.
