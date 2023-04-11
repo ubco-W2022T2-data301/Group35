@@ -3,6 +3,7 @@
 There are many important things that is required to know before investing in stocks, this is informed in detail in the final report of the project. 
 
 To start, Saketh was interested in how the visializations and analysis of datasets can be used to smartly invest in stocks without any risk of loss and more probability to maximize the returns and profits. This is a very important and useful information to always know as it primarily saves our money, especially during the infaltion and all the taxes. Suppose upon analysing 7 companies interested to invest in, there are 3 companies that show maximum return and success, then instead of fully investing in 1 place, it can be split and invested in 3 places so that it further reduces the risk of any loss.  
+
 Likewise, Vanshika was interested to explore more about the Exchange Traded Funds  Models as they are an important investment option due to their low-cost diversification, high liquidity, transparency, and flexibility in investment strategies. Further, they offer investors an efficient way to gain diversified exposure to a wide range of asset classes, while also being able to trade quickly and efficiently throughout the day, it adds more value in our project. The transparency of ETFs allows investors to make informed decisions about which ETFs to invest in and monitor their performance over time. ETFs also offer flexibility in terms of investment strategies, allowing investors to tailor their portfolios to their specific investment goals and risk tolerance. As such, ETFs have become an increasingly popular investment option for both individual and institutional investors. Due to these important factors, she analysis the data of all the tech industries and make the ETF baskets for the Yearly and Monthly basis.
 
 And finally, Shakthi did research and analysis in the stock market to find ideal companies for investors to invest in. After analyzing the data, it was found that the companies that are most profitable and less volatile are Apple, Tesla, Amazon, Meta, and Microsoft. A factor called "Market Value" was created by using different attributes of each individual company, and this was used to find the companies mentioned. Market Value is calculated by finding the product of average stock price and the volume of stocks sold. This value is then divided by 10^8 to scale down the market value to a 0-100 range. It was also found out that certain companies had a high volume of stock volume, but the average stock price was low. However, they had a high market value because of the high volume of stocks sold. This was found to be the case for companies like Tesla, Amazon, and Apple. These companies were found to be the most profitable and less volatile.
@@ -51,7 +52,7 @@ On the other hand, companies like
 
 have shown positive values in their profit and are less volatile. Therefore, based on our analysis, we can conclude that these companies would be suitable for our yearly Bucket.
 
-
+### Analysis 2 (Saketh)
 
 
 
