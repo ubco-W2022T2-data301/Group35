@@ -10,7 +10,7 @@ And finally, Shakthi did research and analysis in the stock market to find ideal
 
 
 
-### Analysis 1 (Vanshika)
+## Analysis 1 (Vanshika)
 
 ### Which Technology based industries are secure to be included in an Yearly and a Monthly ETF model?
 
@@ -58,7 +58,7 @@ have shown positive values in their profit and are less volatile. Therefore, bas
 [Further analysis can be found in my analysis notebook, Click the link](../analysis/analysis1.ipynb)
 
 
-### Analysis 2 summary (Saketh)
+## Analysis 2 summary (Saketh)
 Question - How proper analysis of the data can help in making informed decisions on which company to invest in stocks
 
 I had come with an idea to do excatly that, how I did this was calculating the profit value of all the companies and conpare them and see which has the biggest profit returns. Knowing this, we can invest there to reduce the risk of any loss.
@@ -74,7 +74,7 @@ I personally would split my investments among these 3 companies so that it would
 
 [Further analysis can be seen in my analysis notebook over here including code and the data](../analysis/analysis2.ipynb)
 
-### Analysis 3 summary (Shakthi)
+## Analysis 3 summary (Shakthi)
 Question - What are the top 5 companies to invest in from the dataset?
 
 The following companies are the best companies for investors to invest in: 
