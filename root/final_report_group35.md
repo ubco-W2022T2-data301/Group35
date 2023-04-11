@@ -86,9 +86,9 @@ The following companies are the best companies for investors to invest in:
 
 Careful consideration of three specific attributes of each company was taken into account to determine the best companies to invest in. The attributes considered were: opening price, closing price, and market volume. Some graphs made using tableau has been linked to below:
 
-[Table of Market Value for all companies](images/market_value.png)
-[Graph of Market Volume for all companies](images/volume.png)
-[Graph of Average Prices for all companies](images/avg_prices.png)
+![Table of Market Value for all companies](images/market_value.png)
+![Graph of Market Volume for all companies](images/volume.png)
+![Graph of Average Prices for all companies](images/avg_prices.png)
 
 Another keen observation is the disparity in the market value between Amazon and Meta: 60.22 and 38.30. While, there is not much difference between the top 3 companies. Hence, investing in the top 3 companies would be a significantly more profitable decision than investing in Meta and Microsoft.
 
