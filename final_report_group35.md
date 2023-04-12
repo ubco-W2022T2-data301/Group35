@@ -55,7 +55,7 @@ On the other hand, companies like
 
 have shown positive values in their profit and are less volatile. Therefore, based on our analysis, we can conclude that these companies would be suitable for our yearly Bucket.
 
-[Further analysis can be found in my analysis notebook, Click the link](../analysis/analysis1.ipynb)
+[Further analysis can be found in my analysis notebook, Click the link](/analysis/analysis1.ipynb)
 
 
 ## Analysis 2 summary (Saketh)
@@ -72,7 +72,7 @@ Along with this I had also realised that analysing the volume of shares sold per
 With that it is easy to conclude that Apple, Amazon and Tesla are the best to invest in among the 30 companies as they have the highest volume of shares sold as well as the highest returns of profit.
 I personally would split my investments among these 3 companies so that it would thrive and maximise my returns and prevent any loss.
 
-[Further analysis can be seen in my analysis notebook over here including code and the data](../analysis/analysis2.ipynb)
+[Further analysis can be seen in my analysis notebook over here including code and the data](/analysis/analysis2.ipynb)
 
 ## Analysis 3 summary (Shakthi)
 Question - What are the top 5 companies to invest in from the dataset?
