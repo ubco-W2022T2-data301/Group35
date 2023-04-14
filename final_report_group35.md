@@ -10,7 +10,7 @@ And finally, Shakthi did research and analysis in the stock market to find ideal
 
 
 
-### Analysis 1 (Vanshika)
+## Analysis 1 (Vanshika)
 
 ### Which Technology based industries are secure to be included in an Yearly and a Monthly ETF model?
 
@@ -55,10 +55,10 @@ On the other hand, companies like
 
 have shown positive values in their profit and are less volatile. Therefore, based on our analysis, we can conclude that these companies would be suitable for our yearly Bucket.
 
-[Further analysis can be found in my analysis notebook, Click the link](../analysis/analysis1.ipynb)
+[Further analysis can be found in my analysis notebook, Click the link](/analysis/analysis1.ipynb)
 
 
-### Analysis 2 summary (Saketh)
+## Analysis 2 summary (Saketh)
 Question - How proper analysis of the data can help in making informed decisions on which company to invest in stocks
 
 I had come with an idea to do excatly that, how I did this was calculating the profit value of all the companies and conpare them and see which has the biggest profit returns. Knowing this, we can invest there to reduce the risk of any loss.
@@ -72,9 +72,9 @@ Along with this I had also realised that analysing the volume of shares sold per
 With that it is easy to conclude that Apple, Amazon and Tesla are the best to invest in among the 30 companies as they have the highest volume of shares sold as well as the highest returns of profit.
 I personally would split my investments among these 3 companies so that it would thrive and maximise my returns and prevent any loss.
 
-[Further analysis can be seen in my analysis notebook over here including code and the data](../analysis/analysis2.ipynb)
+[Further analysis can be seen in my analysis notebook over here including code and the data](/analysis/analysis2.ipynb)
 
-### Analysis 3 summary (Shakthi)
+## Analysis 3 summary (Shakthi)
 Question - What are the top 5 companies to invest in from the dataset?
 
 The following companies are the best companies for investors to invest in: 
@@ -86,10 +86,13 @@ The following companies are the best companies for investors to invest in:
 
 Careful consideration of three specific attributes of each company was taken into account to determine the best companies to invest in. The attributes considered were: opening price, closing price, and market volume. Some graphs made using tableau has been linked to below:
 
-[Table of Market Value for all companies](images/market_value.png)
-[Graph of Market Volume for all companies](images/volume.png)
-[Graph of Average Prices for all companies](images/avg_prices.png)
+![Table of Market Value for all companies](images/market_value.png)
+![Graph of Market Volume for all companies](images/volume.png)
+![Graph of Average Prices for all companies](images/avg_prices.png)
 
 Another keen observation is the disparity in the market value between Amazon and Meta: 60.22 and 38.30. While, there is not much difference between the top 3 companies. Hence, investing in the top 3 companies would be a significantly more profitable decision than investing in Meta and Microsoft.
 
 Another factor to consider is the volatility of the stock prices. The volatility of the stock prices is measured by the standard deviation of the closing price of the stock. The higher the standard deviation, the greater the volatility.
+
+## Final Conclusion
+Firstly, Vanshika's approach had focused on identifying highly volatile companies, such as AMD, Nvidia, and Yelp, and excluding them from the portfolio if their profits are not good enough. The second approach made by Saketh involved in calculating the profit of each company by multiplying the closing value of each company with its volume and selecting companies with the highest profit. According to this approach, Apple, Tesla, and Amazon are the top three companies to invest in based on their high profits and volume of stocks sold. Along with this lastly, Shakthi had also added that investing in technology companies is generally considered a good investment, and that the market value of a company is determined by the value of its shares.
